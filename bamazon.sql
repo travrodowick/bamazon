@@ -13,4 +13,15 @@ CREATE TABLE products (
 );
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ()
+VALUES ("strawberry", "grocery", .25, 500),
+("banana", "grocery", .75, 1000 ),
+("cookie", "grocery", 3.00, 100),
+("rags", "household", 13.00, 50),
+("bleach", "household", 4.00, 10),
+("detergent", "household", 23.00, 40),
+("motor oil", "auto", 10.00, 30),
+("windshield wipers", "auto", 35.00, 15),
+("air freshener", "auto", 2.00, 80),
+("receptacle", "home repair", 5.00, 50),
+("light bulbs", "home repair", 4.00, 100),
+("paint", "home repair", 35.00, 300);
