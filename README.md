@@ -23,15 +23,15 @@ After navigating to the file in your terminal use "node bamazonCustomer.js" to s
 
 **For example a typical search might look like this:**
 
-[Imgur](https://i.imgur.com/vbUAJQM.png)
+![Imgur](https://i.imgur.com/vbUAJQM.png)
 
 ### or even this:
 
-![movie-this](https://i.imgur.com/U5YoZvy.png)
+![Imgur](https://i.imgur.com/7Ebypcg.png)
 
 ### or even this:
 
-[Imgur](https://i.imgur.com/6x26gyF.png)
+![Imgur](https://i.imgur.com/6x26gyF.png)
 
 ## Tech Used
 
